@@ -66,16 +66,19 @@ A study-focused application designed to help learners access study materials and
 </td>
 <td width="50%">
 
+
+<td width="50%">
+
 ### 🎙️ AI Voice Tutor
 
-An AI-powered learning project focused on asking questions and receiving AI-generated answers.
+An AI-powered learning application that answers questions and supports voice-based learning.
 
-**Tech:** Python, Flask, SQLite, AI
+**Tech:** Python, Flask, SQLite, Gemini AI
+
+<a href="https://github.com/Mala-Eramma/Tutor">View Repository →</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+
 
 ### 🏦 Union Bank
 
