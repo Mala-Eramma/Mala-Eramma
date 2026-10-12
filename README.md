@@ -1,74 +1,78 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D17,50:17152B,100:172C4F&height=3&section=header" width="100%" alt="Decorative gradient line"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090F,40:312E81,75:4338CA,100:0EA5E9&text=Mala%20Eramma&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=17" alt="Animated purple and blue header"/>
 
-<br/>
-
-# MALA ERAMMA
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+Developer;Artificial+Intelligence+%26+Data+Science;Building+Practical+Digital+Experiences" alt="Animated professional introduction"/>
-
-*Turning ideas into useful applications, one project at a time.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=600&color=818CF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Python+Developer+%F0%9F%90%8D;AI+%26+Data+Science+Enthusiast;Building+Real+Projects+with+Code;Learning.+Creating.+Growing." alt="Animated typing introduction"/>
 
 <br/>
 
-<a href="https://github.com/Mala-Eramma?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/Mala-Eramma"><img src="https://img.shields.io/badge/GitHub-Profile-252538?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" alt="Technology icons"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:3B82F6,100:0F172A&height=2&section=header" width="70%" alt="Purple and blue accent line"/>
+<a href="https://github.com/Mala-Eramma?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656977-05a0e7a1-1c1e-4c6b-8e43-5b8b3a7f9d0e.gif" width="100%" alt="Animated divider"/>
 
 </div>
 
-## About
+## ✦ About Me
 
-I'm an Artificial Intelligence and Data Science graduate interested in Python development, AI-powered applications, and web technologies.
+<img align="right" width="170" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated developer coding"/>
 
-- **Development:** Python and web technologies
-- **Database:** SQL and MySQL
-- **Interests:** Artificial Intelligence, problem-solving, and application development
-- **Approach:** Learn continuously, build practically, and improve consistently
+- 🎓 Artificial Intelligence and Data Science background.
+- 🐍 Interested in Python development.
+- 🤖 Exploring AI-powered applications.
+- 🌐 Building practical web projects.
+- 🗄️ Learning SQL and database management.
+- ✨ Improving my coding skills through practice.
 
-## Technology
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" alt="Python, MySQL, HTML, CSS, JavaScript, Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark&perline=4" alt="My technology stack"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&width=600&lines=Write+Code;Solve+Problems;Build+Applications;Repeat+%E2%9C%A8" alt="Animated coding cycle"/>
 
 </div>
 
-## Selected Projects
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<h3>📚 AI Study Assistant</h3>
+
 <a href="https://github.com/Mala-Eramma/Study">
-
-<img src="https://img.shields.io/badge/01-8B5CF6?style=flat-square"/>
-
-### AI Study Assistant
-
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Study Assistant"/>
 </a>
 
-An AI-assisted learning application for accessing study materials and learning features.
+An AI-assisted learning application for study materials and student learning features.
 
 `Python` `HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
+<h3>🎙️ AI Voice Tutor</h3>
+
 <a href="https://github.com/Mala-Eramma/Tutor">
-
-<img src="https://img.shields.io/badge/02-3B82F6?style=flat-square"/>
-
-### AI Voice Tutor
-
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Voice Tutor"/>
 </a>
 
-An AI-powered tutor designed to answer questions and support voice-based learning.
+An AI-powered tutor that answers questions and supports voice-based learning.
 
 `Python` `Flask` `SQLite` `Gemini AI`
 
@@ -77,54 +81,60 @@ An AI-powered tutor designed to answer questions and support voice-based learnin
 <tr>
 <td width="50%" valign="top">
 
+<h3>🏦 Union Bank</h3>
+
 <a href="https://github.com/Mala-Eramma/Union">
-
-<img src="https://img.shields.io/badge/03-0D9488?style=flat-square"/>
-
-### Union Bank
-
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Open Union Bank"/>
 </a>
 
-A banking application with account creation and core banking operations.
+A banking application featuring account creation and banking operations.
 
 `Python` `Flask` `SQLite`
 
 </td>
 <td width="50%" valign="top">
 
+<h3>🧮 Voice Calculator</h3>
+
 <a href="https://github.com/Mala-Eramma/Voice">
-
-<img src="https://img.shields.io/badge/04-DB2777?style=flat-square"/>
-
-### Voice Calculator
-
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Open Voice Calculator"/>
 </a>
 
 A voice-enabled calculator with speech interaction and calculation history.
 
-`HTML` `CSS` `JavaScript` `Web Speech API`
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 </table>
 
-## Currently Growing
+---
+
+## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Strengthening+Python+fundamentals;Practicing+SQL+and+problem+solving;Exploring+AI+and+Machine+Learning;Building+better+web+applications" alt="Animated learning goals"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=Improving+Python+skills;Practicing+SQL+and+DSA;Exploring+Artificial+Intelligence;Creating+better+web+applications" alt="Animated learning section"/>
 
 </div>
 
-## Connect
+- 💻 Writing cleaner code.
+- 🧩 Practicing logical problem-solving.
+- 🤖 Exploring AI and machine learning.
+- 🚀 Developing useful applications.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Mala-Eramma"><img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Mala-Eramma?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Keep+Building+%E2%9C%A8;Keep+Learning+%F0%9F%92%99;See+you+in+my+next+project!" alt="Animated farewell"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172C4F,50:17152B,100:0B0D17&height=100&section=footer" width="100%" alt="Dark gradient footer"/>
+<a href="https://github.com/Mala-Eramma">
+<img src="https://img.shields.io/badge/GITHUB-Mala--Eramma-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0EA5E9,50:4338CA,100:09090F&section=footer&animation=twinkling" alt="Animated footer"/>
 
 </div>
