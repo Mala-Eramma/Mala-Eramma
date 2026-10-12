@@ -1,7 +1,9 @@
 
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30105e,100:1769aa&height=200&section=header&text=Mala%20Eramma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=16" width="100%" />
+
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Python+Developer+%F0%9F%90%8D;AI+%26+Data+Science+Enthusiast;Building+projects+with+code+%E2%9C%A8;Learning+and+growing+every+day!" alt="Animated typing introduction" />
