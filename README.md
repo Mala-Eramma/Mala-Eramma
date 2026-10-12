@@ -1,140 +1,144 @@
-<div align="center">
+ <!-- ANIMATED HEADER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:09090F,40:312E81,75:4338CA,100:0EA5E9&amp;text=Mala%20Eramma&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&amp;descAlignY=60&amp;descSize=17" alt="Animated purple and blue developer header" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090F,40:312E81,75:4338CA,100:0EA5E9&text=Mala%20Eramma&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=17" alt="Animated purple and blue header"/>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=800&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=55&amp;lines=Python+Developer;AI+%26+Data+Science+Enthusiast;Building+Useful+Projects;Learning+Something+New+Every+Day" alt="Animated typing introduction" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=600&color=818CF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Python+Developer+%F0%9F%90%8D;AI+%26+Data+Science+Enthusiast;Building+Real+Projects+with+Code;Learning.+Creating.+Growing." alt="Animated typing introduction"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" alt="Technology icons"/>
-
-<br/><br/>
-
-<a href="https://github.com/Mala-Eramma?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656977-05a0e7a1-1c1e-4c6b-8e43-5b8b3a7f9d0e.gif" width="100%" alt="Animated divider"/>
-
-</div>
-
-## ✦ About Me
-
-<img align="right" width="170" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated developer coding"/>
-
-- 🎓 Artificial Intelligence and Data Science background.
-- 🐍 Interested in Python development.
-- 🤖 Exploring AI-powered applications.
-- 🌐 Building practical web projects.
-- 🗄️ Learning SQL and database management.
-- ✨ Improving my coding skills through practice.
-
-<br clear="right"/>
+<p align="center">
+  <a href="https://github.com/Mala-Eramma">
+    <img src="https://img.shields.io/badge/GitHub-Mala--Eramma-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python developer" />
+  <img src="https://img.shields.io/badge/AI-Data%20Science-7C3AED?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white" alt="AI and Data Science" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## ✨ About Me
 
-<div align="center">
+Hi! I'm a developer with an academic background in **Artificial Intelligence and Data Science**, interested in building practical applications using Python, web technologies, and AI.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark&perline=4" alt="My technology stack"/>
+- 🐍 Interested in Python development and problem-solving.
+- 🤖 Exploring AI-powered applications and intelligent assistants.
+- 🌐 Building interactive web applications.
+- 🗄️ Learning database management and application development.
+- 🚀 Focused on improving my coding skills through hands-on projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&width=600&lines=Write+Code;Solve+Problems;Build+Applications;Repeat+%E2%9C%A8" alt="Animated coding cycle"/>
+---
 
-</div>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode&amp;theme=dark" alt="Python, HTML, CSS, JavaScript, MySQL, Git, GitHub and VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📚 AI Study Assistant</h3>
-
-<a href="https://github.com/Mala-Eramma/Study">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Study Assistant"/>
-</a>
-
-An AI-assisted learning application for study materials and student learning features.
-
-`Python` `HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎙️ AI Voice Tutor</h3>
-
-<a href="https://github.com/Mala-Eramma/Tutor">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Voice Tutor"/>
-</a>
-
-An AI-powered tutor that answers questions and supports voice-based learning.
-
-`Python` `Flask` `SQLite` `Gemini AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏦 Union Bank</h3>
-
-<a href="https://github.com/Mala-Eramma/Union">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Open Union Bank"/>
-</a>
-
-A banking application featuring account creation and banking operations.
-
-`Python` `Flask` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧮 Voice Calculator</h3>
-
-<a href="https://github.com/Mala-Eramma/Voice">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Open Voice Calculator"/>
-</a>
-
-A voice-enabled calculator with speech interaction and calculation history.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 AI Study Assistant</h3>
+      <p align="center">
+        <a href="https://github.com/Mala-Eramma/Study">
+          <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore AI Study Assistant" />
+        </a>
+      </p>
+      <p>An AI-powered study application designed to support learning through chat, study materials, summaries, quizzes, and progress tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ AI Voice Tutor</h3>
+      <p align="center">
+        <a href="https://github.com/Mala-Eramma/Tutor">
+          <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore AI Voice Tutor" />
+        </a>
+      </p>
+      <p>An AI learning assistant that answers questions and provides an interactive learning experience with voice-related functionality.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 Union Bank Application</h3>
+      <p align="center">
+        <a href="https://github.com/Mala-Eramma/Union">
+          <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0EA5E9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Union Bank" />
+        </a>
+      </p>
+      <p>A banking application featuring account registration, login, account creation, deposits, withdrawals, and balance-related operations.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧮 Voice Calculator</h3>
+      <p align="center">
+        <a href="https://github.com/Mala-Eramma/Voice">
+          <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-4338CA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Voice Calculator" />
+        </a>
+      </p>
+      <p>An interactive calculator project with voice-based calculation support, spoken responses, and calculation history.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Problem%20Solving-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python problem solving" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Skills-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL database skills" />
+  <img src="https://img.shields.io/badge/Web-Development-7C3AED?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="Web development" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=700&lines=Improving+Python+skills;Practicing+SQL+and+DSA;Exploring+Artificial+Intelligence;Creating+better+web+applications" alt="Animated learning section"/>
-
-</div>
-
-- 💻 Writing cleaner code.
-- 🧩 Practicing logical problem-solving.
-- 🤖 Exploring AI and machine learning.
-- 🚀 Developing useful applications.
+I believe that consistent practice, curiosity, and building real projects are important parts of becoming a better developer.
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Keep+Building+%E2%9C%A8;Keep+Learning+%F0%9F%92%99;See+you+in+my+next+project!" alt="Animated farewell"/>
+<p align="center">
+  <a href="https://github.com/Mala-Eramma">
+    <img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my GitHub" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <i>✨ Learning, building, improving — one project at a time.</i>
+</p>
 
-<a href="https://github.com/Mala-Eramma">
-<img src="https://img.shields.io/badge/GITHUB-Mala--Eramma-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0EA5E9,50:4338CA,100:09090F&section=footer&animation=twinkling" alt="Animated footer"/>
-
-</div>
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0EA5E9,45:4338CA,100:09090F" alt="Purple and blue animated footer" />
+</p>
