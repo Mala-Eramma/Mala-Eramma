@@ -1,21 +1,17 @@
 
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30105e,100:1769aa&height=200&section=header&text=Mala%20Eramma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=16" width="100%" />
-
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Python+Developer+%F0%9F%90%8D;AI+%26+Data+Science+Enthusiast;Building+projects+with+code+%E2%9C%A8;Learning+and+growing+every+day!" alt="Animated typing introduction" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30105e,100:1769aa&height=200&section=header&text=Mala%20Eramma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=16" width="100%" alt="Mala Eramma - Python Developer" />
 
 <br/>
 
-<a href="https://github.com/Mala-Eramma">
-<img src="https://img.shields.io/badge/GitHub-Mala--Eramma-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-8B5CF6?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Python+Developer;AI+%26+Data+Science+Enthusiast;Building+useful+projects+with+code;Learning+and+growing+every+day!" alt="Animated introduction" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-8B5CF6?style=for-the-badge" alt="AI and Data Science" />
+<img src="https://img.shields.io/badge/Always-Learning-2563EB?style=for-the-badge" alt="Always Learning" />
 
 </div>
 
@@ -27,8 +23,8 @@
 - 🐍 Interested in Python development and problem-solving.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🌐 Building practical applications with web technologies.
-- 📚 Continuously learning and improving my development skills.
-- ✨ I enjoy turning ideas into useful projects.
+- 🗄️ Learning database management and SQL.
+- ✨ Passionate about learning new technologies and building useful projects.
 
 ---
 
@@ -36,14 +32,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" alt="Python, MySQL, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Science-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine%20Learning-9333EA?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Data%20Science-2563EB?style=flat-square" alt="Data Science" />
 
 </div>
 
@@ -53,51 +52,58 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📚 AI Study Assistant
 
-A study-focused application designed to help learners access study materials and AI-assisted learning features.
+An AI-assisted study application designed to help students access learning materials and study features.
 
-**Tech:** Python, HTML, CSS, JavaScript
+**Technologies:** Python, HTML, CSS, JavaScript
 
-<a href="https://github.com/Mala-Eramma/Study">View Repository →</a>
+<a href="https://github.com/Mala-Eramma/Study">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI Study Assistant repository" />
+</a>
 
 </td>
-<td width="50%">
-
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎙️ AI Voice Tutor
 
 An AI-powered learning application that answers questions and supports voice-based learning.
 
-**Tech:** Python, Flask, SQLite, Gemini AI
+**Technologies:** Python, Flask, SQLite, Gemini AI
 
-<a href="https://github.com/Mala-Eramma/Tutor">View Repository →</a>
+<a href="https://github.com/Mala-Eramma/Tutor">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI Voice Tutor repository" />
+</a>
 
 </td>
-
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏦 Union Bank
 
 A banking application project featuring account creation and banking operations.
 
-**Tech:** Python, Flask, SQLite
+**Technologies:** Python, Flask, SQLite
 
-<a href="https://github.com/Mala-Eramma/Union">View Repository →</a>
+<a href="https://github.com/Mala-Eramma/Union">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Union Bank repository" />
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧮 Voice Calculator
 
-A voice-enabled calculator project with speech interaction and calculation history.
+A voice-enabled calculator featuring speech interaction and calculation history.
 
-**Tech:** HTML, CSS, JavaScript, Web Speech API
+**Technologies:** HTML, CSS, JavaScript, Web Speech API
 
-<a href="https://github.com/Mala-Eramma/Voice">View Repository →</a>
+<a href="https://github.com/Mala-Eramma/Voice">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Voice Calculator repository" />
+</a>
 
 </td>
 </tr>
@@ -105,17 +111,18 @@ A voice-enabled calculator project with speech interaction and calculation histo
 
 ---
 
-## 🌱 Currently Growing
+## 🌱 Currently Learning
 
 <div align="center">
 
-✨ Python Development  
-✨ SQL and Database Management  
-✨ Web Development  
-✨ Artificial Intelligence  
-✨ Data Structures and Algorithms  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=500&lines=Improving+Python+skills;Practicing+SQL+queries;Learning+Data+Structures+and+Algorithms;Exploring+AI+and+Machine+Learning" alt="Animated learning goals" />
 
 </div>
+
+- 💻 Writing cleaner and more efficient code.
+- 🧩 Practicing coding problems and logical thinking.
+- 🌐 Improving full-stack development skills.
+- 🤖 Exploring AI-powered applications.
 
 ---
 
@@ -124,11 +131,17 @@ A voice-enabled calculator project with speech interaction and calculation histo
 <div align="center">
 
 <a href="https://github.com/Mala-Eramma">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Mala--Eramma-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1769aa,50:30105e,100:0d1117&height=100&section=footer" width="100%" />
+<a href="https://github.com/Mala-Eramma?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1769aa,50:30105e,100:0d1117&height=100&section=footer" width="100%" alt="Decorative animated profile footer" />
 
 </div>
